@@ -434,6 +434,5 @@ Possible additions to this repository:
 
 ### 💡 "Understand the base case. Master the recursion."
 
-⭐ **If this repository helped you practice recursion, consider giving it a star!** ⭐
 
 </p>
